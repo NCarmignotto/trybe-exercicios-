@@ -28,7 +28,7 @@ if (d > c) {
     console.log (c);
 }
 
-// Faça um programa que, dado um valor definido numa constante, retorne "positive" se esse valor for positivo, "negative" se for negativo e "zero" caso contrário.
+// Faça um programa que, dado um valor definido numa constante, retorne "positive" se esse valor for positivo, "negative" se for negativo e "zero" caso contrário.//
 const sinal = 0;
 if (sinal > 0) {
     console.log ("Positivo");
